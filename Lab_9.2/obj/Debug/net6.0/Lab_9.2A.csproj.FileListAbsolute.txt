@@ -1,0 +1,14 @@
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\bin\Debug\net6.0\Lab_9.2A.exe
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\bin\Debug\net6.0\Lab_9.2A.deps.json
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\bin\Debug\net6.0\Lab_9.2A.runtimeconfig.json
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\bin\Debug\net6.0\Lab_9.2A.dll
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\bin\Debug\net6.0\Lab_9.2A.pdb
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.AssemblyInfoInputs.cache
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.AssemblyInfo.cs
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.csproj.CoreCompileInputs.cache
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.dll
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\refint\Lab_9.2A.dll
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.pdb
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\Lab_9.2A.genruntimeconfig.cache
+D:\A_univer\АП\code\Lab_9.2\Lab_9.2\obj\Debug\net6.0\ref\Lab_9.2A.dll
